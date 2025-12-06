@@ -64,7 +64,7 @@ If using GPU support, ensure you install CUDA-compatible PyTorch from the offici
 
 ## Running the Project
 
-### Step 1 — Generate Image Captions (Optional but Recommended)
+### Step 1 - Generate Image Captions (Optional but Recommended)
 
 Open and run:
 
@@ -76,7 +76,7 @@ This creates an enhanced textual representation using the BLIP model.
 
 ---
 
-### Step 2 — Train or Evaluate Multimodal Classifier
+### Step 2 - Train or Evaluate Multimodal Classifier
 
 Run:
 
@@ -111,7 +111,7 @@ CLIP_MODEL = "openai/clip-vit-base-patch32"
 
 …and modify the corresponding import line.
 
-> No Structural Changes Needed — Only model/processor lines differ.
+> No Structural Changes Needed - Only model/processor lines differ.
 
 ---
 
@@ -148,6 +148,3 @@ Shiv Nadar University Chennai
 
 Under the guidance of:
 **Dr Balasubramanian P** — IIIT Kottayam
-
-
-Would you like those additions? 🚀
