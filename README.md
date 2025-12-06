@@ -1,6 +1,6 @@
 # Multimodal Fake News Detection using Image Captioning & Three-Way Semantic Fusion
 
-This repository contains the implementation of a multimodal deep learning framework designed to detect fake news by leveraging both **textual and visual signals**. The model identifies semantic inconsistencies between an image and its text caption — a common pattern in misleading social media posts.
+This repository contains the implementation of a multimodal deep learning framework designed to detect fake news by leveraging both **textual and visual signals**. The model identifies semantic inconsistencies between an image and its text caption - a common pattern in misleading social media posts.
 
 The methodology integrates:
 
@@ -126,13 +126,13 @@ Performance varies by visual feature extractor:
 | SigLIP           | 0.8863     | 0.89     |
 | **CLIP (Best)**  | **0.8979** | **0.90** |
 
-> CLIP achieved the highest accuracy due to vision-language alignment training — making it more effective for detecting semantic mismatches.
+> CLIP achieved the highest accuracy due to vision-language alignment training - making it more effective for detecting semantic mismatches.
 
 ---
 
 ## Conclusion
 
-This project demonstrates that multimodal fusion—particularly when enhanced with captioning and vision-language pretrained models—is highly effective for detecting fake news involving mismatched visual and textual content.
+This project demonstrates that multimodal fusion-particularly when enhanced with captioning and vision-language pretrained models-is highly effective for detecting fake news involving mismatched visual and textual content.
 
 The model achieves robust performance and offers a scalable foundation for future misinformation detection systems.
 
@@ -147,4 +147,4 @@ B.Tech Artificial Intelligence & Data Science
 Shiv Nadar University Chennai
 
 Under the guidance of:
-**Dr Balasubramanian P** — IIIT Kottayam
+**Dr Balasubramanian P** - IIIT Kottayam
